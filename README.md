@@ -1,4 +1,4 @@
-# codebasics-resume-projects
+## codebasics-resume-projects
 https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 This is the 4th project of Codebasics Resume Project Challenge.
@@ -8,7 +8,7 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
 
-Task:  
+##Task:  
 
 Imagine yourself as the applicant for this role and perform the following task
 
@@ -17,7 +17,7 @@ Imagine yourself as the applicant for this role and perform the following task
 3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 4.    Be creative with your presentation, audio/video presentation will have more weightage.
 
-Other resources Provided:
+##Other resources Provided:
 
 a.    Dataset required to provide 
 b.    Metadata
