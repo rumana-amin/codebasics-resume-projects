@@ -21,6 +21,6 @@ Imagined myself as the applicant for this role and perform the following task
 
 1.   Checked ad-hoc-requests for which the business needs insights.
 2.   Created as simple database and converted the table structure in sql server as the dataset that was provided in MySql
-3.   Performed a SQL queries in MS sql sercer to answer these requests. 
+3.   Performed a SQL queries in MS sql server to answer these requests. 
 
 
