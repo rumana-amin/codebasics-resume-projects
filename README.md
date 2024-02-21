@@ -10,7 +10,7 @@ However, the management noticed that they do not get enough insights to make qui
 
 ## Other resources Provided:
 
-1.    Dataset required to provide 
+1.    Dataset
 2.    Metadata
 3.    Hints (try not to use the hints to develop your skills quicker)
 4.    Sample questions and Presentation
